@@ -1,0 +1,6 @@
+C:\Users\chona\Desktop\ONT Assignment\Assignment Command Pattern\bin\Debug\Assignment Command Pattern.exe.config
+C:\Users\chona\Desktop\ONT Assignment\Assignment Command Pattern\bin\Debug\Assignment Command Pattern.exe
+C:\Users\chona\Desktop\ONT Assignment\Assignment Command Pattern\bin\Debug\Assignment Command Pattern.pdb
+C:\Users\chona\Desktop\ONT Assignment\Assignment Command Pattern\obj\Debug\Assignment Command Pattern.csprojAssemblyReference.cache
+C:\Users\chona\Desktop\ONT Assignment\Assignment Command Pattern\obj\Debug\Assignment Command Pattern.exe
+C:\Users\chona\Desktop\ONT Assignment\Assignment Command Pattern\obj\Debug\Assignment Command Pattern.pdb
